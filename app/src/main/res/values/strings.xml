@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">KoinDI</string>
     <string name="action_settings">Settings</string>
+
+
+    <!--Error messages-->
+    <string name="internal_server_error">Internal server error</string>
+    <string name="internet_connection_error">Internet connection error</string>
+    <string name="unauthorized_error">Unauthorized</string>
+    <string name="bad_request_error">Bad request</string>
+    <string name="request_failed">Request failed</string>
+
 </resources>
